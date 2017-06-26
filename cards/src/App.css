@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: whitesmoke;
+  height:5000px;
+}
+
+.Feed {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  background-color: white;
+  margin: 25px;
+  height: 600px;
+  width: 500px;
+}
